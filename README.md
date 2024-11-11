@@ -3,19 +3,6 @@
 Online Food Delivery: Design a database for a food delivery service, including restaurants, menus, orders, and deliveries.
 
 
-Tools Used:
-
-1.HTML
-
-2.CSS
-
-3.Javasricpt
-
-4.PHP
-
-5.Bootstrap
-
-
  
 Users can :
 1. Search Food items
