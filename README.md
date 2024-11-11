@@ -1,7 +1,7 @@
 #ONLINE-FOOD-DELIVERY WEBAPP
 Online Food Delivery: Design a database for a food delivery service, including restaurants, menus, orders, and deliveries.
 
-##### Table of Contents  
+
 Users can :
 1. Search Food items
 2. Filter Food items
